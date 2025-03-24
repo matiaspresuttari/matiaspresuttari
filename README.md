@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-    <h2 align="center">Used Languages and frameworks</h2>
+    <h2 align="center">Used languages and frameworks</h2>
     <br>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80">
@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2 align="center">:chart_with_upwards_trend: Github Stats</h2>
+  <h2 align="center">:chart_with_upwards_trend: Github stats</h2>
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiaspresuttari&theme=dark">
 </div>
