@@ -50,7 +50,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">:calling: Contact:</h2>
+<h2 align="center">:calling: Contact</h2>
 <br>
 
 <div align="center">
@@ -63,7 +63,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h2 align="center">:chart_with_upwards_trend: Github Stats:</h2>
+  <h2 align="center">:chart_with_upwards_trend: Github Stats</h2>
   <br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matiaspresuttari&theme=dark">
 </div>
